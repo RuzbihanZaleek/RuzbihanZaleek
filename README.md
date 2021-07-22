@@ -3,7 +3,8 @@
 - 🔭 I’m a final year student of University of Colombo 
 - 🌱 I’m reading electronics & IT in the faculty of Science
 - 🥅 2021 Goals: Complete my degree
-- ⚡ I’m interested to do projects using different technologies 
+- ⚡ I’m interested to do projects using different technologies
+- 💬 Ask me about anything [here](https://github.com/RuzbihanZaleek/RuzbihanZaleek/issues)
 
 
 ### Connect with me:
