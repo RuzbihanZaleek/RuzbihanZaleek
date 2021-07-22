@@ -1,4 +1,4 @@
-### Hi there, I'm Ruzbihan 👋
+### Hi there, I'm Ruzbihan  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 I’m a final year student of University of Colombo 
 - 🌱 I’m reading electronics & IT in the faculty of Science
