@@ -11,8 +11,9 @@
 
 [<img align="left" alt="RuzbihanZaleek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RuzbihanZaleek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="RuzbihanZaleek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="RuzbihanZaleek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="RuzbihanZaleek | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="RuzbihanZaleek | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="RuzbihanZaleek | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -62,4 +63,5 @@
 [facebook]: https://www.facebook.com/ruzbihan.zaleek
 [instagram]: https://instagram.com/ruzbihan_zaleek
 [gmail]: ruzbihanmzm@gmail.com
+[twitter]: https://twitter.com/ruzbihan404
  
