@@ -1,8 +1,8 @@
 ### Hi there, I'm Ruzbihan  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-- 🔭 I’m a final year student of University of Colombo 
-- 🌱 I’m reading Electronics & IT in the faculty of Science
-- 🥅 2021 Goals: Complete my degree
+- 🔭 Junior Software Engineer @Eyepax 
+- 🌱 Electronics & IT Graduate in University of Colombo
+- 🥅 2023 Goals: Improve my skills & Learning new technologies
 - ⚡ I’m interested to do projects using different technologies
 - 💬 Ask me about anything [here](https://github.com/RuzbihanZaleek/RuzbihanZaleek/issues)
 
