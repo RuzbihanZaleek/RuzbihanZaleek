@@ -2,7 +2,7 @@
 
 - 🔭 Junior Software Engineer @Eyepax 
 - 🌱 Electronics & IT Graduate in University of Colombo
-- 🥅 2023 Goals: Improve my skills & Learning new technologies
+- 🥅 2024 Goals: Improve my skills & Learning new technologies
 - ⚡ I’m interested to do projects using different technologies
 - 💬 Ask me about anything [here](https://github.com/RuzbihanZaleek/RuzbihanZaleek/issues)
 
