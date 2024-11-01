@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruzbihan  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-- 🔭 Junior Software Engineer @Eyepax 
+- 🔭 Software Engineer @Eyepax 
 - 🌱 Electronics & IT Graduate in University of Colombo
 - 🥅 2024 Goals: Improve my skills & Learning new technologies
 - ⚡ I’m interested to do projects using different technologies
